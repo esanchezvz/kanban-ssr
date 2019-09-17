@@ -20,6 +20,5 @@ const modules = [
 @NgModule({
   declarations: [...components, GoogleSigninDirective],
   imports: [...modules],
-  exports: [...components, ...modules],
 })
 export class UserModule {}
