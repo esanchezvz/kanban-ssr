@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-ssr": {
+      "hosting": {
+        "kanban-ssr": [
+          "kanban-ssr"
+        ]
+      }
+    }
+  }
+}
