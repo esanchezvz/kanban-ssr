@@ -1,11 +1,5 @@
 {
-  "targets": {
-    "kanban-ssr": {
-      "hosting": {
-        "kanban-ssr": [
-          "kanban-ssr"
-        ]
-      }
-    }
+  "projects": {
+    "default": "kanban-ssr"
   }
 }
